@@ -1,32 +1,56 @@
 {
-  "version": "0.1.0",
-  "codename": "Foundation",
-  "date": "2026-08-20",
-  "status": "Early Development",
-  "changes": {
-    "added": [
-      "Modern dark launcher UI",
-      "Home dashboard",
-      "Sidebar navigation",
-      "Versions page",
-      "Mods page",
-      "Accounts page",
-      "Settings page",
-      "PLAY button",
-      "Modular Electron architecture",
-      "Secure preload and IPC setup",
-      "npm development workflow"
-    ],
-    "planned": [
-      "Microsoft account authentication",
-      "Minecraft version installation",
-      "Automatic Java detection",
-      "Minecraft launching",
-      "RAM management",
-      "Profiles",
-      "Mod management",
-      "Download manager",
-      "Auto-updater"
-    ]
-  }
+  "releases": [
+    {
+      "version": "0.1.0",
+      "codename": "Foundation",
+      "date": "2026-08-20",
+      "status": "Early Development",
+      "changes": {
+        "added": [
+          "Modern dark launcher UI",
+          "Home dashboard",
+          "Sidebar navigation",
+          "Versions page",
+          "Mods page",
+          "Accounts page",
+          "Settings page",
+          "PLAY button",
+          "Modular Electron architecture",
+          "Secure preload and IPC setup",
+          "npm development workflow"
+        ],
+        "planned": [
+          "Microsoft account authentication",
+          "Minecraft version installation",
+          "Automatic Java detection",
+          "Minecraft launching",
+          "RAM management",
+          "Profiles",
+          "Mod management",
+          "Download manager",
+          "Auto-updater"
+        ]
+      }
+    },
+    {
+      "version": "0.1.1",
+      "codename": "Updates Test",
+      "date": "2026-08-21",
+      "status": "Testing",
+      "changes": {
+        "added": [
+          "Updates tab added",
+          "Live GitHub changelog support",
+          "Release cards",
+          "Scrollable changelog page",
+          "Version comparison system"
+        ],
+        "planned": [
+          "Microsoft OAuth",
+          "Minecraft downloader",
+          "Java runtime manager"
+        ]
+      }
+    }
+  ]
 }
