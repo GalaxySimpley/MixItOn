@@ -1,8 +1,8 @@
-# XenO
+# MixItIn
 
-**XenO** is a modern Minecraft launcher built with **Electron, Node.js, JavaScript, HTML, and CSS**.
+**MixItIn** is a modern Minecraft launcher built with **Electron, Node.js, JavaScript, HTML, and CSS**.
 
-Designed for **Windows 11 64-bit**, XenO aims to provide a clean, fast, and secure way to manage Minecraft.
+Designed for **Windows 11 64-bit**, MixItIn aims to provide a clean, fast, and secure way to manage Minecraft.
 
 ## Current Features
 
@@ -47,7 +47,7 @@ npm install
 npm start
 ```
 
-Build XenO:
+Build MixItIn:
 
 ```bash
 npm run build
@@ -56,17 +56,17 @@ npm run build
 The goal is to produce:
 
 ```text
-XenO.exe
+MixItIn.exe
 ```
 
 ## Status
 
 **Milestone 1 — UI Foundation**
 
-XenO is currently in early development. More Minecraft functionality will be added in future milestones.
+MixItIn is currently in early development. More Minecraft functionality will be added in future milestones.
 
 ## Disclaimer
 
-XenO is an independent project and is not affiliated with Microsoft or Mojang Studios.
+MixItIn is an independent project and is not affiliated with Microsoft or Mojang Studios.
 
 `Made With Love By OfflineDev <3`
