@@ -1,0 +1,32 @@
+{
+  "version": "0.1.0",
+  "codename": "Foundation",
+  "date": "2026-08-20",
+  "status": "Early Development",
+  "changes": {
+    "added": [
+      "Modern dark launcher UI",
+      "Home dashboard",
+      "Sidebar navigation",
+      "Versions page",
+      "Mods page",
+      "Accounts page",
+      "Settings page",
+      "PLAY button",
+      "Electron desktop foundation",
+      "Secure preload and IPC architecture",
+      "Modular project structure"
+    ],
+    "planned": [
+      "Microsoft authentication",
+      "Minecraft version installation",
+      "Java detection",
+      "Minecraft launching",
+      "RAM management",
+      "Profiles",
+      "Mod management",
+      "Download manager",
+      "Auto-updater"
+    ]
+  }
+},
