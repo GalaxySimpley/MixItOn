@@ -13,14 +13,14 @@
       "Accounts page",
       "Settings page",
       "PLAY button",
-      "Electron desktop foundation",
-      "Secure preload and IPC architecture",
-      "Modular project structure"
+      "Modular Electron architecture",
+      "Secure preload and IPC setup",
+      "npm development workflow"
     ],
     "planned": [
-      "Microsoft authentication",
+      "Microsoft account authentication",
       "Minecraft version installation",
-      "Java detection",
+      "Automatic Java detection",
       "Minecraft launching",
       "RAM management",
       "Profiles",
@@ -29,4 +29,4 @@
       "Auto-updater"
     ]
   }
-},
+}
